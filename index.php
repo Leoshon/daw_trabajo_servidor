@@ -25,7 +25,7 @@ if (isset($_SESSION['usuario'])) {
       <h1>Tienda Medac Sport</h1>
     </div>
     <nav>
-      <a href="cliente/alta.php">Registrase</a>
+      <a href="cliente/alta.php">Registrarse</a>
     </nav>
   </header>
 
